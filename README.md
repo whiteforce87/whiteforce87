@@ -1,16 +1,14 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=whiteforce87&show_icons=true">
 
-# Merhaba, ben Fatih AKGÜÇ! 
+# Hi, I'm Fatih AKGÜÇ! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whiteforce87" alt="whiteforce87" /> </p>
 
-[![](https://img.shields.io/twitter/follow/whtfrc?style=social)](https://www.twitter.com/whtfrc)
 [![](https://img.shields.io/github/followers/whiteforce87?style=social)](https://www.github.com/whiteforce87)
 
 
 [![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/channel/UCASZKvld8-xxJPzH9BvkWNg)
-[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/whtfrc)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatih-akgüç-646a181bb)
-[![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fthkgc)
+[![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fthakgc)
 [![Mail Badge](https://img.shields.io/badge/fatih_akguc@hotmail.com -c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:fatih_akguc@hotmail.com)](mailto:fatih_akguc@hotmail.com)
 
 
