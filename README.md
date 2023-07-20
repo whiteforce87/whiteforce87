@@ -10,6 +10,6 @@
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatih-akgüç-646a181bb)
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fthakgc)
 [![Mail Badge](https://img.shields.io/badge/fatih_akguc@hotmail.com-c14438?style=for-thebadge&logo=Hotmail&logoColor=white&link=mailto:fatih_akguc@hotmail.com)](mailto:fatih_akguc@hotmail.com)
-[![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white&link=https://chat.openai.com/)]
+[![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](https://chat.openai.com/)
 
 
